@@ -25,11 +25,11 @@ This brief lesson will highlight some of the most common issues and encourage yo
 - **Garbage In, Garbage Out:** Models are only as good as the data they are trained on.
 - **Incomplete or Biased Data:** Missing data or underrepresentation can lead to inaccurate or unfair predictions.
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Poor Data Quality] --> B[Inaccurate Model Predictions]
     A --> C[Bias in Results]
-```
+</div>
 
 ### 2. Interpretability
 - **Black Box Models:** Complex models like neural networks can be difficult to interpret.

@@ -18,12 +18,11 @@ Machine learning (ML) is a subset of artificial intelligence (AI) that enables s
 ✅ **Traditional programming**: Rules + Data → Output\
 ✅ **Machine learning**: Data + Output → Model (learned rules)
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Data] -->|Train| B(Model)
     B -->|Predict| C[Output]
-
-```
+</div>
 
 Types of Machine Learning
 -------------------------
@@ -44,12 +43,12 @@ Types of Machine Learning
 
 **Key Distinction:** There is a clear, known outcome (labeled data).
 
-```mermaid
+<div class="mermaid">
 graph LR
     A[Input Data + Labels] -->|Train| B(Model)
     B -->|Predict| C[New Data -> Prediction]
 
-```
+</div>
 
 * * * * *
 
@@ -68,11 +67,11 @@ graph LR
 
 **Key Distinction:** There is no predefined outcome; the goal is to uncover hidden patterns.
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Input Data] -->|Find Patterns| B[Clusters/Groups]
 
-```
+</div>
 
 * * * * *
 
@@ -91,12 +90,12 @@ graph TD
 
 **Key Distinction:** Learning occurs through actions and feedback from the environment, focusing on long-term rewards.
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Agent] -->|Takes Action| B[Environment]
     B -->|Provides Feedback| A
 
-```
+</div>
 
 Summary Table
 -------------

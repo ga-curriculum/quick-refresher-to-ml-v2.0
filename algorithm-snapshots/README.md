@@ -126,7 +126,7 @@ Reinforcement learning is valuable for sequential decision-making but is often c
 
 ## Summary
 
-```mermaid
+<div class="mermaid">
 graph TD
     A[Input Data] -->|Supervised| B[Linear Regression / Decision Tree]
     A -->|Unsupervised| C[K-Means Clustering]
@@ -134,7 +134,7 @@ graph TD
     B --> E[Predictions]
     C --> F[Clusters]
     D --> G[Optimal Actions]
-```
+</div>
 
 ## Practice
 Experiment with the provided sample data:
