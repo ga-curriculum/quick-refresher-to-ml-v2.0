@@ -19,10 +19,10 @@ This session provides a quick refresher on machine learning, focusing on the typ
 | Lesson | Est. Delivery Time | Skills |
 | ------ |:------------------:| ------ |
 | [Setup](./setup/README.md) | 5 min | Set up the development environment. |
-| [Machine Learning Overview](./machine-learning-overview/README.md) | 10 min | Define machine learning and explain the three types of learning. |
-| [Algorithm Snapshots](./algorithm-snapshots/README.md) | 25 min | Introduce key algorithms in supervised, unsupervised, and reinforcement learning. |
-| [Exercise: Categorizing Real-World Problems](./exercise-categorizing-real-world-problems/README.md) | 15 min | Classify business problems by ML type and justify approach. |
-| [Key Limitations & Practical Challenges](./key-limitations-and-practical-challenges/README.md) | 10 min | Discuss common limitations and risks in machine learning models. |
-| [Mini Case Study: Selecting the Right Approach](./mini-case-study-selecting-right-approach/README.md) | 20 min | Analyze a business problem and recommend an ML approach. |
+| [Machine Learning Overview](./machine-learning-overview/) | 10 min | Define machine learning and explain the three types of learning. |
+| [Algorithm Snapshots](./algorithm-snapshots/) | 25 min | Introduce key algorithms in supervised, unsupervised, and reinforcement learning. |
+| [Exercise: Categorizing Real-World Problems](./exercise-categorizing-real-world-problems/) | 15 min | Classify business problems by ML type and justify approach. |
+| [Key Limitations & Practical Challenges](./key-limitations-and-practical-challenges/) | 10 min | Discuss common limitations and risks in machine learning models. |
+| [Mini Case Study: Selecting the Right Approach](./mini-case-study-selecting-right-approach/) | 20 min | Analyze a business problem and recommend an ML approach. |
 | **Total content** | ~90 min | |
  
