@@ -25,10 +25,15 @@ By the end of this exercise, you will be able to:
 1. A telecommunications company wants to predict whether a customer will cancel their subscription next month.
 
 2. An e-commerce platform wants to suggest products to customers based on their browsing and purchase history.
+
 3. An airline wants to adjust ticket prices in real time based on seat availability, demand, and customer booking patterns.
+
 4. A marketing team wants to group customers into segments based on their demographics and purchasing behavior.
+
 5. A bank wants to detect unusual transactions that may indicate fraud.
+
 6. A logistics company wants its delivery drones to navigate through city streets and optimize delivery routes.
+
 7. A retail store wants to predict next month’s sales based on historical sales data and seasonal trends.
 
 ## Discussion Prompts
