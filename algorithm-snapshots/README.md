@@ -3,8 +3,6 @@
   <span class="subhead">Algorithm Snapshots</span>
 </h1>
 
-**Time Required:** 25 minutes
-
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Implement foundational machine learning algorithms across supervised, unsupervised, and reinforcement learning categories.
@@ -30,7 +28,7 @@ data = pd.DataFrame({
 })
 ```
 
-## 1. Supervised Learning
+## Supervised Learning
 ### a. Linear Regression (Predicting Monthly Spend)
 Linear regression predicts a continuous numeric value based on input features.
 
@@ -79,7 +77,7 @@ Decision trees are flexible and interpretable but can overfit without proper tun
 
 ---
 
-## 2. Unsupervised Learning
+## Unsupervised Learning
 ### a. K-Means Clustering (Customer Segmentation)
 K-means clustering groups data points based on similarity, often used in customer segmentation.
 
@@ -103,7 +101,7 @@ K-means is effective for segmenting data but requires choosing the right number 
 
 ---
 
-## 3. Reinforcement Learning
+## Reinforcement Learning
 ### a. Pricing Optimization (Conceptual Example)
 Reinforcement learning involves learning optimal actions through trial and error. Though complex in practice, simple reward-driven logic can demonstrate the core idea.
 
