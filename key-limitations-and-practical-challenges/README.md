@@ -3,8 +3,6 @@
   <span class="subhead">Key Limitations and Practical Challenges in Machine Learning</span>
 </h1>
 
-**Time Required:** 10 minutes
-
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Identify common limitations and challenges when working with machine learning models.
